@@ -4,6 +4,7 @@ namespace Sravnenie
 {
 	class Program
 	{
+		// смотрим изменения
 		static void Main( string[] args )
 		{
 			Console.WriteLine( "введите строку" );
